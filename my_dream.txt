@@ -1,0 +1,3 @@
+print "Hello world"
+fffff = ddddd
+print (ddddd)

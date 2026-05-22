@@ -1,4 +1,4 @@
-from messages import *
+from texts import *
 
 name = input(MSG_INPUT_NAME).strip()
 
